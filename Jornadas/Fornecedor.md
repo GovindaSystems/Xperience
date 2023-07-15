@@ -19,3 +19,4 @@
 8. **Gerenciamento**: Após a publicação, o fornecedor gerencia suas experiências através da plataforma. Eles podem atualizar informações, responder a avaliações de clientes, gerenciar reservas e acompanhar o desempenho de suas experiências.
 
 A plataforma Experience está comprometida em fornecer uma experiência de usuário suave e agradável para os fornecedores em todas as etapas da jornada de cadastro de produto.
+
