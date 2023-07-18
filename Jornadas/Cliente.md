@@ -16,7 +16,6 @@
 
 7. **Pós-compra**: Após a compra, o cliente usufrui da experiência adquirida. Eles podem deixar avaliações e feedbacks sobre a experiência, que ajudarão outros clientes em suas jornadas de compra.
 
-
 ## Avaliacao de compra
 
 A jornada de avaliação de compra dos clientes na plataforma Experience pode ser dividida em várias etapas:

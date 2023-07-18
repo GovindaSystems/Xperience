@@ -20,3 +20,6 @@
 
 A plataforma Experience está comprometida em fornecer uma experiência de usuário suave e agradável para os fornecedores em todas as etapas da jornada de cadastro de produto.
 
+## Avaliação do cliente
+
+Prossibilidade de avaliar o cliente e dar vantagens para eles.

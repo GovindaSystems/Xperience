@@ -1,6 +1,23 @@
+> Experience, degustando a vida! :)
+
+Expandindo os limites
+Abrindo portais
+
+
 # Experience
 
 Experience é uma plataforma inovadora que tem como objetivo auxiliar comerciantes a oferecer de forma inteligente e eficiente produtos e serviços. Aqui, comerciantes podem cadastrar experiências únicas que os clientes podem usufruir, criando um ecossistema de troca de serviços e produtos.
+
+---
+
+## Missão
+
+...
+
+---
+
+## Visão
+
 
 ---
 
@@ -10,21 +27,27 @@ Experience é mais do que uma plataforma, é uma comunidade. Aqui, comerciantes 
 
 ---
 
-## Benefícios para Comerciantes
-
-Ao fazer parte do Experience, você não apenas tem a oportunidade de oferecer experiências incríveis para seus clientes, mas também se beneficia de uma rede de comerciantes integrados. Como membro do clube Experience, você pode obter vantagens e descontos ao adquirir serviços e produtos de outros comerciantes que fazem parte do programa. É uma maneira eficaz de apoiar e ser apoiado por outros comerciantes, promovendo um ambiente de negócios saudável e colaborativo.
-
----
-
 ## Como o Experience Funciona
 
 Experience foi projetado para ajudar você, comerciante, a criar, organizar e gerenciar as melhores experiências que seus clientes podem ter. Com o seu talento e a nossa organização, o céu é o limite. Através da nossa plataforma, você pode gerenciar suas ofertas, acompanhar o interesse dos clientes, e receber feedbacks valiosos que podem ajudar a melhorar ainda mais suas experiências.
+
+> Técnicas para fidelizar o cliente.
+
+---
+
+## Benefícios para Comerciantes
+
+Ao fazer parte do Experience, você não apenas tem a oportunidade de oferecer experiências incríveis para seus clientes, mas também se beneficia de uma rede de comerciantes integrados. Como membro do clube Experience, você pode agregar vantagens ao adquirir serviços e produtos de outros comerciantes que fazem parte do programa. É uma maneira eficaz de apoiar e ser apoiado por outros comerciantes, promovendo um ambiente de negócios saudável e colaborativo.
+
+> Convidar o cliente a experimentar 
 
 ---
 
 ## Junte-se a Nós
 
 Estamos sempre buscando por comerciantes talentosos e apaixonados para se juntarem à nossa comunidade. Se você acredita que pode oferecer experiências incríveis para seus clientes e quer fazer parte de uma rede de comerciantes colaborativos, junte-se a nós no Experience.
+
+> Ação social - projetos sociais - ambientais. 
 
 ---
 
