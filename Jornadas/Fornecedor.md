@@ -22,4 +22,4 @@ A plataforma Experience está comprometida em fornecer uma experiência de usuá
 
 ## Avaliação do cliente
 
-Prossibilidade de avaliar o cliente e dar vantagens para eles.
+> Prossibilidade de avaliar o cliente e dar vantagens para eles.
