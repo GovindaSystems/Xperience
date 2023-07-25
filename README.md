@@ -1,7 +1,3 @@
-Claro, aqui está a sua documentação atualizada com os conceitos inspirados na série "Ilha da Fantasia":
-
----
-
 # Experience
 
 Experience é uma plataforma inovadora que tem como objetivo auxiliar comerciantes a oferecer de forma inteligente e eficiente produtos e serviços. Inspirada na série "Ilha da Fantasia", a plataforma permite que os clientes vivenciem suas fantasias e sonhos através de experiências únicas e personalizadas. Aqui, comerciantes podem cadastrar experiências únicas que os clientes podem usufruir, criando um ecossistema de troca de serviços e produtos.
