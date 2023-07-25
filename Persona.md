@@ -16,7 +16,7 @@ O Fornecedor é a persona que cria e oferece as possibilidades de experiências 
 
 ---
 
-## Promotor - Embaixador - Agencia de turismo - Agente organizador
+## Promotor - Embaixador - Agencia de turismo - Agente organizador - Gentis Organizadores
 
 O Empreendedor é a persona que vê o valor em apoiar e ser apoiado por outros empreendedores. Eles estão interessados em fazer novos negócios e parcerias, e veem o Experience como uma plataforma para alcançar esses objetivos. Eles são visionários, dispostos a assumir riscos e sempre procurando oportunidades para crescer e expandir seus negócios.
 
