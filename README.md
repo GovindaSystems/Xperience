@@ -1,5 +1,3 @@
-Certainly! Here's the updated README with a focus on a DAO-oriented organization style:
-
 # Experience
 
 <p align="center">
