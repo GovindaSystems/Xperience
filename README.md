@@ -1,7 +1,7 @@
 # Experience
 
 <p align="center">
-    <img src="assets/logo.jpg" height="50%" width="50%" alt="Unform" />
+    <img src="assets/logo.jpg" height="25%" width="25%" alt="Unform" />
 </p>
 
 > Experience is:
