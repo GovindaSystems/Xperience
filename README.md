@@ -1,3 +1,5 @@
+Certainly! Here's the updated README with a focus on a DAO-oriented organization style:
+
 # Experience
 
 <p align="center">
@@ -6,76 +8,76 @@
 
 > Experience is:
 
-* An e-commerce platform where you can create your own store and sell your products in a simple way.
+* A decentralized e-commerce platform empowering individuals to create their own stores and sell products effortlessly.
 
 Registration:
     
-    - Store
-    - Products
+    - Store 
+    - Products 
 
-* A customer engagement tool:
+* A community-driven engagement tool:
 
 Modules:
 
-    - Cashback - using its own currency - (backing)
-    - Promotion - Products / Coupon / Commission (product/123?seller=ABC) [Ambassador / Promoter]
-    - SEO for organic / paid traffic (increase visibility of store / product / showcase / ...)
+    - Cashback - utilizing its native currency - (backing)
+    - Promotion - Products / Coupons / Commissions (product/123?seller=ABC) [Ambassador / Promoter]
+    - SEO for organic / paid traffic (enhancing store / product / showcase visibility / ...)
 
 * Consulting service and personalized support for Companies / Entrepreneurs (School & Consulting)
 
-    - Consulting to improve the experience your customer has with your product
-    - Presentation consulting (service / product)
+    - Consultancy to enhance the user experience with your product
+    - Presentation consultancy (service / product)
     - Economic viability analysis (service / product) (clarity for the scenario)
 
-Experience is an innovative platform that aims to assist merchants in offering products and services intelligently and efficiently. Inspired by the TV series "Fantasy Island," the platform allows customers to live out their fantasies and dreams through unique and personalized experiences. Here, merchants can register unique experiences that customers can enjoy, creating an ecosystem of service and product exchange.
+Experience is an innovative platform aiming to assist merchants in offering products and services intelligently and efficiently in a decentralized, community-driven environment. Inspired by the TV series "Fantasy Island," the platform allows customers to live out their fantasies and dreams through unique and personalized experiences. Here, merchants can register unique experiences that customers can enjoy, creating a decentralized ecosystem of service and product exchange.
 
 ---
 
 ## Mission
 
-Our mission at Experience is to create a space where merchants can offer unique and memorable experiences to their customers. We want to facilitate the connection between people and experiences, allowing customers to discover new ways to enjoy life and merchants to expand their businesses efficiently and innovatively.
+Our mission at Experience is to create a decentralized space where merchants can offer unique and memorable experiences to their customers. We want to facilitate the connection between people and experiences, allowing customers to discover new ways to enjoy life and merchants to expand their businesses efficiently and innovatively within a DAO-based model.
 
 ---
 
 ## Vision
 
-Our vision is to be the leading platform in connecting people to unique and innovative experiences worldwide. We want to be recognized as a community that values quality, innovation, and collaboration between merchants and customers.
+Our vision is to be the leading decentralized platform connecting people to unique and innovative experiences worldwide. We aim to be recognized as a community that values quality, innovation, and collaboration between merchants and customers within a DAO framework.
 
 ---
 
 ## Purpose
 
-Our purpose is to enrich people's lives through memorable experiences. We believe that each experience is an opportunity to learn, grow, and connect with others. We want every customer who uses Experience to feel that their life has been enriched in some way.
+Our purpose is to enrich people's lives through memorable experiences in a decentralized and community-driven manner. We believe that each experience is an opportunity to learn, grow, and connect with others. We want every customer who uses Experience to feel that their life has been enriched in some way within the decentralized ecosystem.
 
 ---
 
 ## Customer
 
-Our customers are curious and adventurous individuals who are always looking for new experiences to enrich their lives. They value quality, authenticity, and innovation, and are always ready to try something new.
+Our customers are curious and adventurous individuals who are always looking for new experiences to enrich their lives. They value quality, authenticity, and innovation, and are always ready to try something new within the decentralized framework.
 
 ---
 
 ## Supplier
 
-Our suppliers are passionate and talented merchants who are eager to share their unique experiences with the world. They are innovators, creative, and committed to excellence in everything they do.
+Our suppliers are passionate and talented merchants who are eager to share their unique experiences with the world. They are innovators, creative, and committed to excellence in everything they do within the DAO framework.
 
 ---
 
 ## Kind Organizers (Promoter)
 
-Our kind organizers are the facilitators who make everything possible. They are responsible for ensuring that each experience is perfectly organized and managed, and that each customer leaves satisfied.
+Our kind organizers are the facilitators who make everything possible within our decentralized ecosystem. They are responsible for ensuring that each experience is perfectly organized and managed, and that each customer leaves satisfied.
 
 ---
 
 ## About Experience
 
-Experience is more than a platform; it's a community. Here, merchants of all kinds can offer amazing experiences to their customers. Whether it's a gourmet dinner, a sightseeing tour, a dance class, a craft beer tasting, or any other experience you can imagine, Experience is the place to share it.
+Experience is more than a platform; it's a decentralized community. Here, merchants of all kinds can offer amazing experiences to their customers in a decentralized and community-driven environment. Whether it's a gourmet dinner, a sightseeing tour, a dance class, a craft beer tasting, or any other experience you can imagine, Experience is the place to share it.
 
 ---
 
 ## How Experience Works
 
-Experience is designed to help you, the merchant, create, organize, and manage the best experiences your customers can have. With your talent and our organization, the sky is the limit. Through our platform, you can manage your offerings, track customer interest, and receive valuable feedback that can help further improve your experiences.
+Experience is designed to help you, the merchant, create, organize, and manage the best experiences your customers can have within a decentralized ecosystem. With your talent and our decentralized organization, the sky is the limit. Through our platform, you can manage your offerings, track customer interest, and receive valuable feedback that can help further improve your experiences within the DAO model.
 
 ## User Journeys
 
@@ -114,7 +116,6 @@ graph TD
     F --> H[Payment error]
 ```
 
-Certainly! Let's create diagrams in Mermaid to explain each of the actions mentioned in English.
 
 ### 1. Register a user
 
@@ -180,9 +181,10 @@ sequenceDiagram
     PaymentProvider -->> ExperiencePlatform: Return confirmation of configuration
     ExperiencePlatform -->> Merchant: Confirm successful payment method setup
 ```
+
 ---
 
-## Arq 
+## Architecture
 
 ```mermaid
 graph TD;
@@ -202,16 +204,14 @@ subgraph "Server Side"
     BE[Server] -- Data Processing --> MongoDB
     BE -- IoTeX Integration --> Web3
 end
-
-
 ```
 
-In this diagram:
+In this decentralized architecture:
 
 - **FE (Vercel)** represents the frontend hosted on Vercel.
 - **Web3** represents the integration with Web3 for interacting with IoTeX smart contracts.
 - **MongoDB** is used for data storage and is accessed by both the frontend and backend.
-- **BE (Server)** represents the backend server, interacting with MongoDB and integrating with IoTeX through Web3 for transactions and other blockchain-related functionalities.
+- **BE (Server)** represents the decentralized backend server, interacting with MongoDB and integrating with IoTeX through Web3 for transactions and other blockchain-related functionalities.
 
 ---
 
@@ -234,35 +234,34 @@ gantt
     Commission_Functionality_Development : Commission Functionality Development, 2023-12-01, 2023-12-15
     Google_Social_Login_Development : Google/Social Login Development, 2023-12-16, 2023-12-31
     Other_Payment_Methods_Development : Other Payment Methods Development, 2024-01-01, 2024-01-15
-
 ```
 
-1 - Requirement Definition (Status: Done)
-2 - Screen Prototype Creation (Status: Done)
-3 - Development of Home page / Login via metamask / Products / Purchase Flow (payment in ETH test) (Status: Done)
-4 - Product Registration Development
-5 - Store Registration Development
-6 - Promoter Registration Development
-7 - Commission Functionality Development
-8 - Login Development via Google / Social Network
-9 - Development of other payment methods (Pix, Card, Bitcoin)
+- 1 - Requirement Definition (Status: Done)
+- 2 - Screen Prototype Creation (Status: Done)
+- 3 - Development of Home page / Login via metamask / Products / Purchase Flow (payment in ETH test) (Status: Done)
+- 4 - Product Registration Development
+- 5 - Store Registration Development
+- 6 - Promoter Registration Development
+- 7 - Commission Functionality Development
+- 8 - Login Development via Google / Social Network
+- 9 - Development of other payment methods (Pix, Card, Bitcoin)
 
-## Join Us
+## Join Our Decentralized Community
 
-We are always looking for talented and passionate merchants to join our community. If you believe you can offer amazing experiences to your customers and want to be part of a collaborative network of merchants, join us at Experience.
+We are always looking for talented and passionate merchants to join our decentralized community. If you believe you can offer amazing experiences to your customers and want to be part of a collaborative network of merchants within a DAO framework, join us at Experience.
 
 ---
 
-## Social Action - Social and Environmental Projects
+## Social Impact - Social and Environmental Projects
 
 At Experience, we believe that everyone has the right to enjoy amazing experiences. That's why we are committed to supporting social and environmental projects that help make the world a better place. With every experience booked, a percentage is donated to projects that support needy communities and sustainability initiatives.
 
 ---
 
-## Contact
+## Contact Us
 
 For more information, please contact us through our website or send an email to [email].
 
 ---
 
-Experience - With your talent and our organization, the sky is the limit.
+Experience - With your talent and our decentralized organization, the sky is the limit.
