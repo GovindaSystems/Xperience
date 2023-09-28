@@ -204,6 +204,16 @@ gantt
 
 ```
 
+1 - Requirement Definition (Status: Done)
+2 - Screen Prototype Creation (Status: Done)
+3 - Development of Home page / Login via metamask / Products / Purchase Flow (payment in ETH test) (Status: Done)
+4 - Product Registration Development
+5 - Store Registration Development
+6 - Promoter Registration Development
+7 - Commission Functionality Development
+8 - Login Development via Google / Social Network
+9 - Development of other payment methods (Pix, Card, Bitcoin)
+
 ## Join Us
 
 We are always looking for talented and passionate merchants to join our community. If you believe you can offer amazing experiences to your customers and want to be part of a collaborative network of merchants, join us at Experience.
