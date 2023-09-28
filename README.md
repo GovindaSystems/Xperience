@@ -182,6 +182,39 @@ sequenceDiagram
 ```
 ---
 
+## Arq 
+
+```mermaid
+graph TD;
+
+subgraph "Blockchain"
+    Web3((IoTeX Smart Contract)) -- Transactions / Coin / Cashback --> FE
+end
+
+subgraph "Client Side"
+    FE(Vercel) -- Web3 Integration --> Web3
+    FE -.-> MongoDB
+end
+
+subgraph "Server Side"
+    MongoDB((MongoDB)) -- Data Storage --> FE
+    MongoDB -- Data Storage --> BE
+    BE[Server] -- Data Processing --> MongoDB
+    BE -- IoTeX Integration --> Web3
+end
+
+
+```
+
+In this diagram:
+
+- **FE (Vercel)** represents the frontend hosted on Vercel.
+- **Web3** represents the integration with Web3 for interacting with IoTeX smart contracts.
+- **MongoDB** is used for data storage and is accessed by both the frontend and backend.
+- **BE (Server)** represents the backend server, interacting with MongoDB and integrating with IoTeX through Web3 for transactions and other blockchain-related functionalities.
+
+---
+
 ## Timeline
 
 ```mermaid
