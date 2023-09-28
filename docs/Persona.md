@@ -6,6 +6,14 @@
 
 O Cliente é a persona que busca experiências únicas e memoráveis. Eles têm a necessidade e o desejo de adquirir experiências fantásticas, seja na gastronomia, em aulas de dança, degustações de cerveja ou passeios turísticos. Eles valorizam a qualidade, a originalidade e a autenticidade nas experiências que escolhem.
 
+Faxa : 35 a 50 anos
+
+25 a 40 :
+
+50 a 60 :
+
+Cidade : São Paulo / (grandes captais)
+
 ---
 
 ## Fornecedor
