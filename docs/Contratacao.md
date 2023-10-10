@@ -1,8 +1,5 @@
 Ter um sistema de troca facilitada na comunidade utilizando o Discord
 
-
-
-
 ## Clientes
 
 ## Fornecedores
