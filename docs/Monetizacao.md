@@ -12,15 +12,15 @@ Visão uma ferramenta mais focada nas empressas.
    
    - **Versão Gratuita**: Permitir que os usuários criem lojas e vendam produtos com recursos básicos.
    
-   - **Versões Pagas**: Oferecer pacotes de assinatura com ferramentas e recursos adicionais. Estes podem incluir:
+   - **Versões Pagas**: Oferecer pacotes de assinatura com ferramentas e recursos adicionais. Estes podem incluir: ...
 
-   - **Módulo de Treinamentos**: Cursos e workshops para ajudar os vendedores a otimizar suas lojas e vendas.
-   
-   - **Consultoria**: Acesso a especialistas para orientação personalizada.
-   
-   - **Ferramenta Oceano Azul**: Ferramentas e estratégias para ajudar os vendedores a identificar e explorar novos mercados.
-   
-   - **Marketing**: Ferramentas avançadas de marketing e promoção.
+      - **Módulo de Treinamentos**: Cursos e workshops para ajudar os vendedores a otimizar suas lojas e vendas.
+      
+      - **Consultoria**: Acesso a especialistas para orientação personalizada.
+      
+      - **Ferramenta Oceano Azul**: Ferramentas e estratégias para ajudar os vendedores a identificar e explorar novos mercados.
+      
+      - **Marketing**: Ferramentas avançadas de marketing e promoção.
 
 ## 3. **Bonificações**:
    
@@ -51,5 +51,12 @@ Programa de pontos onde os clientes compram
 - Pedido - 1000 kg carne - valor mais barato
 
 > Organização de quem irá fazer a compra e distribuir. (limite de compras)
+
+## 9. ** Rodada de negócio **
+
+Evento para que os comerciantes se juntarem para trocar experiencias e ideias
+
+   * 9.1 ** Rodada de investimento **
+
 
 --------
