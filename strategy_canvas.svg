@@ -1,0 +1,117 @@
+<svg width="1000" height="600" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .line {
+      fill: none;
+      stroke-width: 2px;
+    }
+    .point {
+      stroke-width: 5px;
+    }
+    .axis path, .axis line {
+      fill: none;
+      shape-rendering: crispEdges;
+      stroke: #000;
+    }
+    .axis text {
+      font-family: sans-serif;
+      font-size: 10px;
+    }
+    .legend {
+      font-family: sans-serif;
+      font-size: 12px;
+    }
+  </style>
+  <rect width="1000" height="600" fill="white" />
+  <text x="500" y="30" text-anchor="middle" font-size="20" font-family="sans-serif">Tela de Estratégia</text>
+  <g class="legend" transform="translate(0,50)">
+    <rect x="0" y="0" width="10" height="10" fill="red"/>
+    <text x="20" y="10">Xperience</text>
+    <rect x="100" y="0" width="10" height="10" fill="yellow"/>
+    <text x="120" y="10">Sebrae</text>
+    <rect x="200" y="0" width="10" height="10" fill="blue"/>
+    <text x="220" y="10">Endeavor Brasil</text>
+    <rect x="350" y="0" width="10" height="10" fill="green"/>
+    <text x="370" y="10">Aliança Empreendedora</text>
+    <rect x="500" y="0" width="10" height="10" fill="purple"/>
+    <text x="520" y="10">EloGroup</text>
+  </g>
+  <g transform="translate(50,100)">
+    <g class="axis x-axis" transform="translate(0,450)">
+      <line x1="0" y1="0" x2="900" y2="0" stroke="#000"/>
+      <line x1="0" y1="0" x2="0" y2="-450" stroke="#000"/>
+      <line x1="150" y1="0" x2="150" y2="10" stroke="#000"/>
+      <line x1="300" y1="0" x2="300" y2="10" stroke="#000"/>
+      <line x1="450" y1="0" x2="450" y2="10" stroke="#000"/>
+      <line x1="600" y1="0" x2="600" y2="10" stroke="#000"/>
+      <line x1="750" y1="0" x2="750" y2="10" stroke="#000"/>
+      <line x1="900" y1="0" x2="900" y2="10" stroke="#000"/>
+      <text x="0" y="30" text-anchor="middle">Preço para o cliente</text>
+      <text x="150" y="30" text-anchor="middle">Qualidade da Consultoria</text>
+      <text x="300" y="30" text-anchor="middle">Inovação nas Soluções</text>
+      <text x="450" y="30" text-anchor="middle">Variedade de Serviços Oferecidos</text>
+      <text x="600" y="30" text-anchor="middle">Atendimento ao Cliente</text>
+      <text x="750" y="30" text-anchor="middle">Velocidade de Entrega</text>
+      <text x="900" y="30" text-anchor="middle">Análise de Viabilidade Econômica</text>
+    </g>
+    <g class="axis y-axis">
+      <line x1="0" y1="0" x2="0" y2="450" stroke="#000"/>
+      <line x1="0" y1="0" x2="-10" y2="0" stroke="#000"/>
+      <line x1="0" y1="90" x2="-10" y2="90" stroke="#000"/>
+      <line x1="0" y1="180" x2="-10" y2="180" stroke="#000"/>
+      <line x1="0" y1="270" x2="-10" y2="270" stroke="#000"/>
+      <line x1="0" y1="360" x2="-10" y2="360" stroke="#000"/>
+      <line x1="0" y1="450" x2="-10" y2="450" stroke="#000"/>
+      <text x="-20" y="0" text-anchor="end">6</text>
+      <text x="-20" y="90" text-anchor="end">5</text>
+      <text x="-20" y="180" text-anchor="end">4</text>
+      <text x="-20" y="270" text-anchor="end">3</text>
+      <text x="-20" y="360" text-anchor="end">2</text>
+      <text x="-20" y="450" text-anchor="end">1</text>
+    </g>
+    <path class="line" d="M0,360 L150,180 L300,180 L450,450 L600,0 L750,360 L900,0" stroke="red"/>
+    <path class="line" d="M0,270 L150,270 L300,360 L450,90 L600,180 L750,270 L900,270" stroke="yellow"/>
+    <path class="line" d="M0,90 L150,0 L300,0 L450,270 L600,0 L750,0 L900,270" stroke="blue"/>
+    <path class="line" d="M0,270 L150,180 L300,270 L450,360 L600,270 L750,180 L900,180" stroke="green"/>
+    <path class="line" d="M0,180 L150,0 L300,180 L450,180 L600,360 L750,0 L900,360" stroke="purple"/>
+    <!-- Pontos Xperience -->
+    <circle class="point" cx="0" cy="360" r="3" fill="red"/>
+    <circle class="point" cx="150" cy="180" r="3" fill="red"/>
+    <circle class="point" cx="300" cy="180" r="3" fill="red"/>
+    <circle class="point" cx="450" cy="450" r="3" fill="red"/>
+    <circle class="point" cx="600" cy="0" r="3" fill="red"/>
+    <circle class="point" cx="750" cy="360" r="3" fill="red"/>
+    <circle class="point" cx="900" cy="0" r="3" fill="red"/>
+    <!-- Pontos Sebrae -->
+    <circle class="point" cx="0" cy="270" r="3" fill="yellow"/>
+    <circle class="point" cx="150" cy="270" r="3" fill="yellow"/>
+    <circle class="point" cx="300" cy="360" r="3" fill="yellow"/>
+    <circle class="point" cx="450" cy="90" r="3" fill="yellow"/>
+    <circle class="point" cx="600" cy="180" r="3" fill="yellow"/>
+    <circle class="point" cx="750" cy="270" r="3" fill="yellow"/>
+    <circle class="point" cx="900" cy="270" r="3" fill="yellow"/>
+    <!-- Pontos Endeavor Brasil -->
+    <circle class="point" cx="0" cy="90" r="3" fill="blue"/>
+    <circle class="point" cx="150" cy="0" r="3" fill="blue"/>
+    <circle class="point" cx="300" cy="0" r="3" fill="blue"/>
+    <circle class="point" cx="450" cy="270" r="3" fill="blue"/>
+    <circle class="point" cx="600" cy="0" r="3" fill="blue"/>
+    <circle class="point" cx="750" cy="0" r="3" fill="blue"/>
+    <circle class="point" cx="900" cy="270" r="3" fill="blue"/>
+    <!-- Pontos Aliança Empreendedora -->
+    <circle class="point" cx="0" cy="270" r="3" fill="green"/>
+    <circle class="point" cx="150" cy="180" r="3" fill="green"/>
+    <circle class="point" cx="300" cy="270" r="3" fill="green"/>
+    <circle class="point" cx="450" cy="360" r="3" fill="green"/>
+    <circle class="point" cx="600" cy="270" r="3" fill="green"/>
+    <circle class="point" cx="750" cy="180" r="3" fill="green"/>
+    <circle class="point" cx="900" cy="180" r="3" fill="green"/>
+    <!-- Pontos EloGroup -->
+    <circle class="point" cx="0" cy="180" r="3" fill="purple"/>
+    <circle class="point" cx="150" cy="0" r="3" fill="purple"/>
+    <circle class="point" cx="300" cy="180" r="3" fill="purple"/>
+    <circle class="point" cx="450" cy="180" r="3" fill="purple"/>
+    <circle class="point" cx="600" cy="360" r="3" fill="purple"/>
+    <circle class="point" cx="750" cy="0" r="3" fill="purple"/>
+    <circle class="point" cx="900" cy="360" r="3" fill="purple"/>
+  </g>
+</svg>
