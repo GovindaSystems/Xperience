@@ -40,6 +40,16 @@ Ser reconhecido mundialmente como líder em consultoria de inovação, ajudando 
 * Qualidade: Compromisso com a excelência em todos os nossos serviços.
 * Sustentabilidade: Promover práticas que suportem o desenvolvimento sustentável.
 
+## Consultoria focada no Fator Humano
+
+Na Experience, acreditamos que o fator humano é essencial para o sucesso de qualquer projeto. Nossos consultores são treinados para entender as necessidades e desejos de nossos clientes, garantindo que cada solução seja adaptada às suas expectativas.
+
+* Processos são criados de forma colaborativa.
+* Processos que servem pessoas.
+* Processos de Feedback contínuo.
+* Foco na capacitação e desenvolvimento de equipes.
+* Valorizar a mentalidade `Kaizen`.
+
 ## Contato
 
 Para mais informações sobre nossos serviços ou para agendar uma consulta, entre em contato através do nosso site ou envie um email para [email].
